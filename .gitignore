@@ -1,0 +1,20 @@
+# Python
+myenv/
+env/
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+
+# ML Output (model ไฟล์ใหญ่เกินไป)
+ml_output/
+
+# Node
+react-app/node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ENV
+.env
